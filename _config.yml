@@ -1,4 +1,7 @@
-title: Welcome to my blog, I'm Jay Fursule
+---
+title: "Welcome to JayFursule's blog"
+date: 2019-01-20
+---
 author: Jay Fursule
 email: jayesh.f1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
