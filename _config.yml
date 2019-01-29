@@ -1,15 +1,21 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+---
+title: "Welcome to JayFursule's blog"
+date: 2019-01-29
+---
+author: Jay Fursule
+email: jayesh.f1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+ Ready to help you whenever i'm free and try to solve your query.
+ I'm glad to share my interest, knowlage with anyone. and I am interested 
+ in new technology, software devlopment, software testing, photography,
+ musical instruments like keyboard, octopad...
+ 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: jay_fursule
+github_username:  jayfursule
+instagram_username: jay_fursule
+youtube_channel: Jay Fursule
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-dinky
+theme: minima
